@@ -23,7 +23,6 @@
 ![Flet](https://img.shields.io/badge/-Flet-009688?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-FF914D?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Pygame](https://img.shields.io/badge/-Pygame-1B1E23?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
