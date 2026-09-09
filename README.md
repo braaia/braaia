@@ -43,6 +43,6 @@
 Se quiser trocar ideia ou ver mais do que estou fazendo:
 
 - ✉️ wessleynog@gmail.com
-- (em breve) LinkedIn e portfólio
+- https://www.linkedin.com/in/wesleynog/
 
 feat: bio do perfil
