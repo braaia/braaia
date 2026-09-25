@@ -7,7 +7,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 👨‍💻 Estudando por conta própria: foco em **desenvolvimento de softwares e jogos**
-- 🎮 Explorando o mundo da programação com **Python**, **Pygame**, **C#**, **Kivy** e mais
+- 🎮 Explorando o mundo da programação com **Python**, **Java**, **C#** e mais
 - 🎯 Construindo meu **portfólio profissional** com projetos pessoais aqui no GitHub
 - 🧠 Motto: *Sempre aprendendo*
 - 🎨 Curto desenhar, ouvir música e criar coisas legais
