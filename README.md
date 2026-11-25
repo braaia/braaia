@@ -62,6 +62,30 @@
 
 ---
 
+## 🚀 Projetos em destaque
+
+### 📦 Admin System — Inventory Management
+
+Sistema de gerenciamento de estoque desenvolvido com Python.
+
+- Interface desktop com PySide6.
+- API REST desenvolvida com FastAPI.
+- Persistência de dados com SQLAlchemy e PostgreSQL.
+- Gerenciamento de materiais e histórico de movimentações.
+- Arquitetura preparada para múltiplos clientes.
+
+### 📋 MVP On The Job — Employee Activity Management
+
+Sistema desenvolvido para simplificar o gerenciamento de atividades de colaboradores.
+
+- Backend com Python e FastAPI.
+- Interface desenvolvida com Flet.
+- Persistência de dados com SQLite.
+- Operações CRUD para colaboradores e atividades.
+- Geração de relatórios em PDF.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
